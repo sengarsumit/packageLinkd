@@ -1,33 +1,47 @@
-This project publishes my resume as a public npm package, accessible directly from the terminal. By running:
+# 📦 Resume on NPM
 
+`@sengarsumit/resume` lets you view my resume directly in your terminal using `npx`.  
+It’s a fun experiment in distributing resumes as code packages.
+
+---
+
+## 🚀 Installation & Usage
+
+No installation required! Just run:
+
+```bash
 npx @sengarsumit/resume
+```
+This will instantly display my formatted resume in your terminal.
 
+## ✨ Features
 
-anyone can instantly view a formatted version of my resume in their terminal.
+One-command access to my resume
 
+Colorful, well-structured CLI output
 
-🚀 Features
+Published as a public scoped npm package
 
-Resume displayed in a well-formatted, colorful CLI output
+Zero dependencies beyond Node.js
 
-Distributed as a public scoped npm package (@sengarsumit/resume)
-
-Simple one-command execution with npx
-
-No setup required — works globally
-
-
-🛠️ Tech Stack
+## 🛠️ Built With
 
 Node.js
 
-Chalk (for styling text)
+Chalk
+ for styling text
 
-Boxen (for CLI layout/boxes)
+Boxen
+ for neat terminal boxes
 
-npm (for package distribution)
+npm
+ for publishing
 
+## 🤝 Contributing
 
-🤝 Acknowledgment
+This is mainly a personal showcase project, but suggestions are always welcome.
+If you’d like to improve formatting, add new sections, or extend functionality, feel free to fork and open a pull request.
 
-This project was built with the assistance of an LLM (ChatGPT by OpenAI) to speed up development and troubleshooting.
+## 🙏 Acknowledgments
+
+This project was built with the help of an LLM (ChatGPT by OpenAI) to speed up development, troubleshooting, and formatting.
