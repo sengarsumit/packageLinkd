@@ -27,7 +27,7 @@ const resume = {
     {
       role: "Software Developer",
       company: "Accenture",
-      period: "2023 - 2025",
+      period: " May 2024 - sep 2024",
       bullets: [
         "Built REST APIs in Java/Spring Boot",
         "Worked on React frontends",
