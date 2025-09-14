@@ -39,7 +39,7 @@ const resume = {
     {
       degree: "B.Tech — Information Technology",
       school: "GGSIPU",
-      year: "2024",
+      year: "2023",
       grade: "8.8 CGPA"
     }
   ]
