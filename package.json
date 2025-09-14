@@ -1,0 +1,16 @@
+{
+  "name": "@sengarsumit/resume",
+  "version": "1.0.1",
+  "description": "print resume to terminal",
+  "bin": {
+    "@sengarsumit/resume": "./bin/index.js"
+  },
+  "preferGlobal": false,
+  "author": "Sumit sengar",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "boxen": "^7.0.0",
+    "chalk": "^5.0.0"
+  }
+}
